@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   I received the B.S. degrees from College of Information Science and Engineering,  National Huaqiao University in 2018, 
   advised by Prof. [Huanqiang Zeng](https://www.semanticscholar.org/author/Huanqiang-Zeng/72910910).
 
-  ![Trees](images/landscape-trees.jpg "Trees")
+  
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -74,10 +74,12 @@ content:
 #           - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #             icon: fab fa-github
 #             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#         quote: >
+#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project
+          
+          ![Trees](images/landscape-trees.jpg "Trees")
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
