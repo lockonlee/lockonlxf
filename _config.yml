@@ -96,22 +96,23 @@ content:
 #         title: 2022
 #         description: | # this will include new lines to allow paragraphs
 #         - **Attnetion Diversication for Domain Generalization**
-  - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 2022
-        description: | # this will include new lines to allow paragraphs
-        **Attnetion Diversication for Domain Generalization**
+#   - title: Publications # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: left
+#         title: 2022
+#         description: | # this will include new lines to allow paragraphs
+#         **Attnetion Diversication for Domain Generalization**
             
-#   - title: A Little More About Me
-#     layout: text
-#     content: | # this will include new lines to allow paragraphs
-#       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#       - Rock climbing
-#       - Gaming
-#       - Knitting
-#       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - **Attnetion Diversication for Domain Generalization**
 
 #       Look at this cool image  
 
