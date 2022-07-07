@@ -70,8 +70,8 @@ content:
         sub_title: AI Algorithm Engineer / Internship
         caption: July 2021 - Present / May 2020 - September 2020
 
-        description: | # this will include new lines to allow paragraphs
-            Every company need
+#         description: | # this will include new lines to allow paragraphs
+#             Every company need
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -80,22 +80,22 @@ content:
         title: South China University of Technology
         sub_title: School of Electronic and Information Engineering 
         caption: M.S. degree (September 2018 - June 2021)
-        description: | # this will include new lines to allow paragraphs
-          I started this project
+#         description: | # this will include new lines to allow paragraphs
+#           I started this project
           
       - layout: top-middle
         title: National Huaqiao University
         sub_title: College of Information Science and Engineering
-        caption: B.S. degree (September 2018 - June 2021)
-        description: | # this will include new lines to allow paragraphs
+        caption: B.S. degree (September 2014 - July 2018)
+#         description: | # this will include new lines to allow paragraphs
 
-  - title: Publications     
-    layout: list
-    content:
-      - layout: top-left
-        title: 2022
-        description: | # this will include new lines to allow paragraphs
-        - **Attnetion Diversication for Domain Generalization**
+#   - title: Publications     
+#     layout: list
+#     content:
+#       - layout: top-left
+#         title: 2022
+#         description: | # this will include new lines to allow paragraphs
+#         - **Attnetion Diversication for Domain Generalization**
              
             
 #   - title: A Little More About Me
