@@ -74,8 +74,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project
           
-          ![Trees](images/landscape-trees.jpg "Trees")
-          
      content:
       - layout: top-middle
         title: National Huaqiao University
@@ -85,8 +83,6 @@ content:
           B.S. degree (September 2014 - July 2018)
         description: | # this will include new lines to allow paragraphs
           I started this project
-          
-          ![Trees](images/landscape-trees.jpg)
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,7 +109,6 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](images/landscape-trees.jpg#pic_center)
 
 # Footer
 footer_show_references: true
