@@ -102,7 +102,7 @@ content:
       - layout: left
         title: 2022
         description: | # this will include new lines to allow paragraphs
-        - **Attnetion Diversication for Domain Generalization**
+        **Attnetion Diversication for Domain Generalization**
             
 #   - title: A Little More About Me
 #     layout: text
