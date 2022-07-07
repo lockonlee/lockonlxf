@@ -67,23 +67,25 @@ content:
     content:
       - layout: top-middle
         title: South China University of Technology
-#         sub_title: School of Electronic and Information Engineering 
-#         caption: M.S. degree (September 2018 - June 2021)
-        link: http://www2.scut.edu.cn/ee/
-        link_text: School of Electronic and Information Engineering 
-        quote: >
-          M.S. degree (September 2018 - June 2021)
+        sub_title: School of Electronic and Information Engineering 
+        caption: M.S. degree (September 2018 - June 2021)
+#         link: http://www2.scut.edu.cn/ee/
+#         link_text: School of Electronic and Information Engineering 
+#         quote: >
+#           M.S. degree (September 2018 - June 2021)
         description: | # this will include new lines to allow paragraphs
           I started this project
           
       - layout: top-middle
         title: National Huaqiao University
-        link: https://eee.hqu.edu.cn/
-        link_text: College of Information Science and Engineering
-        quote: >
-          B.S. degree (September 2014 - July 2018)
+        sub_title: College of Information Science and Engineering
+        caption: B.S. degree (September 2018 - June 2021)
+#         link: https://eee.hqu.edu.cn/
+#         link_text: College of Information Science and Engineering
+#         quote: >
+#           B.S. degree (September 2014 - July 2018)
         description: | # this will include new lines to allow paragraphs
-          I started this project
+          ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")I started this project
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
