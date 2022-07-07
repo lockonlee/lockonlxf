@@ -92,15 +92,14 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-    * Corresponding Author
       - **Attnetion Diversication for Domain Generalization**
 
-          Rang Meng, **Xianfeng Li** (Equal contribution), Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu*
+          Rang Meng, **Xianfeng Li** (Equal contribution), Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu
       
           *European Conference on Computer Vision 2022 (ECCV 2022)*
       - **Free Lunch for Cross-Domain Occluded Face Recognition without Source Data**
       
-          Taoshan Zhang, Youjun Xiang*, **Xianfeng Li**, Zichun Weng, Zhen Chen, Yuli Fu
+          Taoshan Zhang, Youjun Xiang, **Xianfeng Li**, Zichun Weng, Zhen Chen, Yuli Fu
           
           *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)*
       - **Generalized Face Anti-Spoofing via Cross-Adversarial Disentanglement with Mixing Augmentation**
@@ -111,12 +110,37 @@ content:
       
       - **A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data**
       
+          **Xianfeng Li**, Weijie Chen, Di Xie, Shicai Yang, Peng Yuan, Shiliang Pu, Yueting Zhuang
+          
+          *AAAI Conference on Artificial Intelligence (AAAI 2021)*
           
       - **Combining Dynamic Image and Prediction Ensemble for Cross-Domain Face Anti-Spoofing**
+      
+          Lingling Lv, Youjun Xiang, **Xianfeng Li**, Hanye Huang, Rongju Ruan, Xiaoyan Xu, Yuli Fu
+          
+          *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021)*
       - **Saliency-Guided Transformer Network with Boosting Multi-Level Interaction for Blind Image Quality Assessment**
+      
+          Mengmeng Zhu, Yitian Li, **Xianfeng Li**, Tianwei Zhang
+            
+          *IEEE International Conference on Anti -counterfeiting, Security, and Identification (ASID 2021)*
       - **A Novel Two-Pathway Encoder-Decoder Network for 3D Face Reconstruction**
+      
+          **Xianfeng Li**, Zichun Weng, Juntao Liang, Lei Cai, Youjun Xiang, Yuli Fu
+      
+          *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2020)*
+
       - **Learning Semantic Representations via Joint 3D Face Reconstruction and Facial Attribute Estimation**
+      
+          Zichun Weng, Youjun Xiang, **Xianfeng Li**, Juntao Liang, Wanliang Huo, Yuli Fu
+          
+          *IEEE International Conference on Pattern Recognition (ICPR 2020)*
+
       - **Fast Compressed Sensing Recovery Using Generative Models and Sparse Deviations Modeling**
+      
+          Lei Cai, Yuli Fu, Youjun Xiang, Tao Zhu, **Xianfeng Li**, Huanqiang Zeng
+          
+          *IEEE International Conference on Visual Communications and Image Processing (VCIP 2020)*
 
 
 #       Look at this cool image  
