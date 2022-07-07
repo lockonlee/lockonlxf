@@ -89,13 +89,13 @@ content:
         caption: B.S. degree (September 2018 - June 2021)
         description: | # this will include new lines to allow paragraphs
 
-#   - title: Publications     
-#     layout: list
-#     content:
-#       - layout: top-middle
-#         sub_title: 2022
-#         description: | # this will include new lines to allow paragraphs
-#         - **Attnetion Diversication for Domain Generalization**
+  - title: Publications     
+    layout: list
+    content:
+      - layout: top-left
+        title: 2022
+        description: | # this will include new lines to allow paragraphs
+        - **Attnetion Diversication for Domain Generalization**
              
             
   - title: A Little More About Me
