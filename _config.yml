@@ -88,31 +88,15 @@ content:
         sub_title: College of Information Science and Engineering
         caption: B.S. degree (September 2014 - July 2018)
 #         description: | # this will include new lines to allow paragraphs
-
-#   - title: Publications     
-#     layout: list
-#     content:
-#       - layout: top-left
-#         title: 2022
-#         description: | # this will include new lines to allow paragraphs
-#         - **Attnetion Diversication for Domain Generalization**
-#   - title: Publications # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: left
-#         title: 2022
-#         description: | # this will include new lines to allow paragraphs
-#         **Attnetion Diversication for Domain Generalization**
             
   - title: Publications
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    content: | # this will include new lines to allow paragraphs 
       - **Attnetion Diversication for Domain Generalization**
+      Rang Meng, Xianfeng Li, Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu*
+      European Conference on Computer Vision 2022 (ECCV 2022)
+      - **Free Lunch for Cross-Domain Occluded Face Recognition without Source Data**
+
 
 #       Look at this cool image  
 
