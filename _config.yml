@@ -96,7 +96,13 @@ content:
 #         title: 2022
 #         description: | # this will include new lines to allow paragraphs
 #         - **Attnetion Diversication for Domain Generalization**
-             
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Hikvision Research Institute
+        sub_title: AI Algorithm Engineer / Internship
+        caption: July 2021 - Present / May 2020 - September 2020            
             
 #   - title: A Little More About Me
 #     layout: text
