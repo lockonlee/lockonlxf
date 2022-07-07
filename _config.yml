@@ -75,8 +75,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        ![Trees](images/landscape-trees.jpg "Trees")
+      - layout: right
         title: The Boring Company
         link: boringcompany.com
         # link_text: boringcompany.com
@@ -91,7 +90,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        ![Trees](images/landscape-trees.jpg "Trees")
+        description:
+          ![Trees](images/landscape-trees.jpg "Trees")
     content:
       - layout: right
         title: Harvard University
