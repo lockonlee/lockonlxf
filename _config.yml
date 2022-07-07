@@ -53,16 +53,16 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: South China University of Technology
+        link: http://www2.scut.edu.cn/ee/
+        link_text: School of Electronic and Information Engineering 
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
+            icon: images/favicon.ico
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
