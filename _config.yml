@@ -9,14 +9,14 @@ version: 2
 name: Xianfeng Li
 title: AI Algorithm Engineer
 email: lockonlxf@163.com
-website: www.github.com/lockonlee
+# website: www.github.com/lockonlee
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  lockonlee
+# github_username:  lockonlee
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
