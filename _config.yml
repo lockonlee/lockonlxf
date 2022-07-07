@@ -76,6 +76,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        icon: images/headshot.jpg
         title: The Boring Company
         link: boringcompany.com
         # link_text: boringcompany.com
