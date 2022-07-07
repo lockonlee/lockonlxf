@@ -52,10 +52,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   I'm a AI algorithm engineer at Hikvision Research Institute. 
   
-  I received the M.S. degrees from School of Electronic and Information Engineering, South China University of Technology in 2021, 
+  I received the M.S. degree from School of Electronic and Information Engineering, South China University of Technology, Guangzhou, China in 2021, 
   advised by Prof. [Yuli Fu](https://www.researchgate.net/profile/Yuli-Fu).
   
-  I received the B.S. degrees from College of Information Science and Engineering,  National Huaqiao University in 2018, 
+  I received the B.S. degree from College of Information Science and Engineering,  National Huaqiao University, Xiamen, in 2018, 
   advised by Prof. [Huanqiang Zeng](https://www.semanticscholar.org/author/Huanqiang-Zeng/72910910).
   
   My research interests mainly focus on **deep learning** and its applications on **computer vision** and **sciencs analysis**.
@@ -69,6 +69,7 @@ content:
         title: South China University of Technology
         link: http://www2.scut.edu.cn/ee/
         link_text: School of Electronic and Information Engineering 
+        sub_title: M.S. degree (September 2018 - June 2021)
 #         additional_links:
 #           - title:  sproogen/modern-resume-theme
 #             icon: images/favicon.ico
