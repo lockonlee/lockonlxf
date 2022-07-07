@@ -92,15 +92,14 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-    $^star$
       - **Attnetion Diversication for Domain Generalization**
 
-          Rang Meng, **Xianfeng Li**, Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu*
+          Rang Meng*, **Xianfeng Li***, Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu
       
           *European Conference on Computer Vision 2022 (ECCV 2022)*
       - **Free Lunch for Cross-Domain Occluded Face Recognition without Source Data**
       
-          Taoshan Zhang, Youjun Xiang*, **Xianfeng Li**, Zichun Weng, Zhen Chen, Yuli Fu
+          Taoshan Zhang, Youjun Xiang, **Xianfeng Li**, Zichun Weng, Zhen Chen, Yuli Fu
           
           *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)*
       - **Generalized Face Anti-Spoofing via Cross-Adversarial Disentanglement with Mixing Augmentation**
