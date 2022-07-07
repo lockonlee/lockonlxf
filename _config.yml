@@ -50,7 +50,7 @@ about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Xianfeng Li.
   I'm a AI algorithm engineer at Hikvision Research Institute. 
-  Previously, I received the M.S. degrees from School of Electronic and Information Engineering, South China University of Technology in 2021, 
+  I received the M.S. degrees from School of Electronic and Information Engineering, South China University of Technology in 2021, 
   advised by Prof. [Yuli Fu](https://www.researchgate.net/profile/Yuli-Fu).
 
 content:
