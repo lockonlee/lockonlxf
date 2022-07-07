@@ -49,10 +49,16 @@ github_username:  lockonlee
 about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Xianfeng Li.
+  
   I'm a AI algorithm engineer at Hikvision Research Institute. 
+  
   I received the M.S. degrees from School of Electronic and Information Engineering, South China University of Technology in 2021, 
   advised by Prof. [Yuli Fu](https://www.researchgate.net/profile/Yuli-Fu).
+  
+  I received the B.S. degrees from College of Information Science and Engineering,  National Huaqiao University in 2018, 
+  advised by Prof. [Huanqiang Zeng](https://www.semanticscholar.org/author/Huanqiang-Zeng/72910910).
 
+  ![Trees](images/landscape-trees.jpg "Trees")
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
