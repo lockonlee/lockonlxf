@@ -91,7 +91,8 @@ content:
             
   - title: Publications
     layout: text
-    content: | # this will include new lines to allow paragraphs 
+    content: | # this will include new lines to allow paragraphs
+    $^star$
       - **Attnetion Diversication for Domain Generalization**
 
           Rang Meng, **Xianfeng Li**, Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu*
