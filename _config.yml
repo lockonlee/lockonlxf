@@ -90,7 +90,12 @@ content:
         sub_title: College of Information Science and Engineering
         caption: B.S. degree (September 2018 - June 2021)
         description: | # this will include new lines to allow paragraphs
-          ![Trees](images/landscape-trees.jpg "Trees")I started this project
+          ![Trees](images/landscape-trees.jpg =60x60 "Trees")I started this projectI started this projectI started this projectI started this projectI started this project
+          I started this projectI started this projectI started this projectI started this projectI started this projectI started this projectI started this project
+          I started this projectI started this projectI started this projectI started this project
+          I started this projectI started this projectI started this projectI started this project
+          I started this projectI started this projectI started this projectI started this projectI started this project
+          I started this projectI started this projectI started this projectI started this projectI started this project
   - title: Publications     
     layout: list
     content:
