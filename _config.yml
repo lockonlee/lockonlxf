@@ -95,7 +95,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **Attnetion Diversication for Domain Generalization**
 
-          Rang Meng, **Xianfeng Li** (Equal contribution), Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu
+          Rang Meng, **Xianfeng Li** (Co-first author), Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu
       
           *European Conference on Computer Vision (**ECCV 2022**)*
          
@@ -103,14 +103,14 @@ content:
       
           Taoshan Zhang, Youjun Xiang, **Xianfeng Li**, Zichun Weng, Zhen Chen, Yuli Fu
           
-          *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)*
+          *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2022**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9746642)]
       - **Generalized Face Anti-Spoofing via Cross-Adversarial Disentanglement with Mixing Augmentation**
       
           Hanye Huang, Youjun Xiang, Guodong Yang, Lingling Lv, **Xianfeng Li**, Zichun Weng, Yuli Fu
           
-          *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)*
+          *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2022**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9746716)]
           
@@ -118,40 +118,40 @@ content:
       
           **Xianfeng Li**, Weijie Chen, Di Xie, Shicai Yang, Peng Yuan, Shiliang Pu, Yueting Zhuang
           
-          *AAAI Conference on Artificial Intelligence (AAAI 2021)*
+          *AAAI Conference on Artificial Intelligence (**AAAI 2021**)*
           
           [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17029)]&#8195;[[arXiv](https://arxiv.org/abs/2012.05400)]
       - **Combining Dynamic Image and Prediction Ensemble for Cross-Domain Face Anti-Spoofing**
       
           Lingling Lv, Youjun Xiang, **Xianfeng Li**, Hanye Huang, Rongju Ruan, Xiaoyan Xu, Yuli Fu
           
-          *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021)*
+          *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2021**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9413926)]
       - **Saliency-Guided Transformer Network with Boosting Multi-Level Interaction for Blind Image Quality Assessment**
       
           Mengmeng Zhu, Yitian Li, **Xianfeng Li**, Tianwei Zhang
           
-          *IEEE International Conference on Anti -counterfeiting, Security, and Identification (ASID 2021)*
+          *IEEE International Conference on Anti -counterfeiting, Security, and Identification (**ASID 2021**)*
       - **A Novel Two-Pathway Encoder-Decoder Network for 3D Face Reconstruction**
       
           **Xianfeng Li**, Zichun Weng, Juntao Liang, Lei Cai, Youjun Xiang, Yuli Fu
           
-          *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2020)*
+          *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2020**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9053699)]
       - **Learning Semantic Representations via Joint 3D Face Reconstruction and Facial Attribute Estimation**
       
           Zichun Weng, Youjun Xiang, **Xianfeng Li**, Juntao Liang, Wanliang Huo, Yuli Fu
           
-          *IEEE International Conference on Pattern Recognition (ICPR 2020)*
+          *IEEE International Conference on Pattern Recognition (**ICPR 2020**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9412426))]
       - **Fast Compressed Sensing Recovery Using Generative Models and Sparse Deviations Modeling**
       
           Lei Cai, Yuli Fu, Youjun Xiang, Tao Zhu, **Xianfeng Li**, Huanqiang Zeng
           
-          *IEEE International Conference on Visual Communications and Image Processing (VCIP 2020)*
+          *IEEE International Conference on Visual Communications and Image Processing (**VCIP 2020**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9053699))]
   - title: Services
