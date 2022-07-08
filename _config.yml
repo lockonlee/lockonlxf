@@ -151,7 +151,13 @@ content:
           *IEEE International Conference on Visual Communications and Image Processing (VCIP 2020)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9053699))]
-
+  - title: Services
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Journal Reviewer of:
+        - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+      Conference Volunteer of:
+        - IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS 2017), Xiamen, China
 
 #       Look at this cool image  
 
