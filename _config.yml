@@ -50,7 +50,8 @@ about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Xianfeng Li.
   
-  I'm a AI algorithm engineer at Hikvision Research Institute. 
+  I'm a AI algorithm engineer at Hikvision Research Institute, worked with Dr. [Shicai Yang](https://www.semanticscholar.org/author/Shicai-Yang/2884262) 
+  and Dr. [Weijie Chen](https://www.semanticscholar.org/author/Weijie-Chen/48994044). 
   
   I received the M.S. degree from School of Electronic and Information Engineering, South China University of Technology, Guangzhou, China in 2021, 
   advised by Prof. [Yuli Fu](https://www.researchgate.net/profile/Yuli-Fu).
@@ -111,6 +112,7 @@ content:
           *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9746716)]
+          
       - **A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data**  
       
           **Xianfeng Li**, Weijie Chen, Di Xie, Shicai Yang, Peng Yuan, Shiliang Pu, Yueting Zhuang
@@ -156,6 +158,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Journal Reviewer of:
         - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+        
       Conference Volunteer of:
         - IEEE International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS 2017), Xiamen, China
 
