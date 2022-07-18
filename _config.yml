@@ -95,7 +95,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **Attnetion Diversication for Domain Generalization**
 
-          Rang Meng, **Xianfeng Li$\star$** (Co-first author), Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu
+          Rang Meng, **Xianfeng Li\star** (Co-first author), Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu
       
           *European Conference on Computer Vision (**ECCV 2022**)*
          
