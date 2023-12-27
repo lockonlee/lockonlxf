@@ -93,11 +93,12 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+      
       - **Multivariate Fourier Distribution Perturbation: Domain Shifts with Uncertainty in Frequency Domain**
         
             **Xianfeng Li**, Weijie Chen, Shicai Yang, Yishuang Li, Wenhao Guan, and Lin Li
             
-            *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*|
+            *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)* |
             
       - **Attnetion Diversication for Domain Generalization**
 
