@@ -93,9 +93,15 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - **Multivariate Fourier Distribution Perturbation: Domain Shifts with Uncertainty in Frequency Domain**
+        
+            **Xianfeng Li**, Weijie Chen, Shicai Yang, Yishuang Li, Wenhao Guan, and Lin Li
+            
+            *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**)*|
+            
       - **Attnetion Diversication for Domain Generalization**
 
-          Rang Meng*, **Xianfeng Li\***, Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, Shiliang Pu
+          Rang Meng*, **Xianfeng Li\***, Weijie Chen, Shicai Yang, Jie Song, Xinchao Wang, Lei Zhang, Mingli Song, Di Xie, and Shiliang Pu
 
           *European Conference on Computer Vision (**ECCV 2022**)* \| \* Equal contribution
           
@@ -103,14 +109,14 @@ content:
          
       - **Free Lunch for Cross-Domain Occluded Face Recognition without Source Data**
       
-          Taoshan Zhang, Youjun Xiang, **Xianfeng Li**, Zichun Weng, Zhen Chen, Yuli Fu
+          Taoshan Zhang, Youjun Xiang, **Xianfeng Li**, Zichun Weng, Zhen Chen, and Yuli Fu
           
           *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2022**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9746642)]
       - **Generalized Face Anti-Spoofing via Cross-Adversarial Disentanglement with Mixing Augmentation**
       
-          Hanye Huang, Youjun Xiang, Guodong Yang, Lingling Lv, **Xianfeng Li**, Zichun Weng, Yuli Fu
+          Hanye Huang, Youjun Xiang, Guodong Yang, Lingling Lv, **Xianfeng Li**, Zichun Weng, and Yuli Fu
           
           *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2022**)*
           
@@ -118,14 +124,14 @@ content:
           
       - **A Free Lunch for Unsupervised Domain Adaptive Object Detection without Source Data**  
       
-          **Xianfeng Li**, Weijie Chen, Di Xie, Shicai Yang, Peng Yuan, Shiliang Pu, Yueting Zhuang
+          **Xianfeng Li**, Weijie Chen, Di Xie, Shicai Yang, Peng Yuan, Shiliang Pu, and Yueting Zhuang
           
           *AAAI Conference on Artificial Intelligence (**AAAI 2021**)*
           
           [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17029)]&#8195;[[arXiv](https://arxiv.org/abs/2012.05400)]
       - **Combining Dynamic Image and Prediction Ensemble for Cross-Domain Face Anti-Spoofing**
       
-          Lingling Lv, Youjun Xiang, **Xianfeng Li**, Hanye Huang, Rongju Ruan, Xiaoyan Xu, Yuli Fu
+          Lingling Lv, Youjun Xiang, **Xianfeng Li**, Hanye Huang, Rongju Ruan, Xiaoyan Xu, and Yuli Fu
           
           *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2021**)*
           
@@ -133,21 +139,21 @@ content:
 
       - **A Novel Two-Pathway Encoder-Decoder Network for 3D Face Reconstruction**
       
-          **Xianfeng Li**, Zichun Weng, Juntao Liang, Lei Cai, Youjun Xiang, Yuli Fu
+          **Xianfeng Li**, Zichun Weng, Juntao Liang, Lei Cai, Youjun Xiang, and Yuli Fu
           
           *IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2020**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9053699)]
       - **Learning Semantic Representations via Joint 3D Face Reconstruction and Facial Attribute Estimation**
       
-          Zichun Weng, Youjun Xiang, **Xianfeng Li**, Juntao Liang, Wanliang Huo, Yuli Fu
+          Zichun Weng, Youjun Xiang, **Xianfeng Li**, Juntao Liang, Wanliang Huo, and Yuli Fu
           
           *IEEE International Conference on Pattern Recognition (**ICPR 2020**)*
           
           [[Paper](https://ieeexplore.ieee.org/document/9412426)]
       - **Fast Compressed Sensing Recovery Using Generative Models and Sparse Deviations Modeling**
       
-          Lei Cai, Yuli Fu, Youjun Xiang, Tao Zhu, **Xianfeng Li**, Huanqiang Zeng
+          Lei Cai, Yuli Fu, Youjun Xiang, Tao Zhu, **Xianfeng Li**, and Huanqiang Zeng
           
           *IEEE International Conference on Visual Communications and Image Processing* (**VCIP 2020**)
           
